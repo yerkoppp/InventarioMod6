@@ -76,12 +76,12 @@ La estructura de paquetes refleja esta arquitectura:
 
 | Inicio | Lista de Productos |
 | :---: | :---: |
-| ![Pantalla de Inicio](app/assets/pantalla_inicio.webp) | ![Lista de Productos](app/assets/productos_cargados.webp) |
+| ![Pantalla de Inicio](assets/pantalla_inicio.webp) | ![Lista de Productos](assets/productos_cargados.webp) |
 | **Añadir Producto** | **Ajustar Stock** |
-| ![Añadir Producto](app/assets/hoja_anadir_producto.webp) | ![Ajustar Stock](app/assets/hoja_ajuste_stock.webp) |
+| ![Añadir Producto](assets/hoja_anadir_producto.webp) | ![Ajustar Stock](assets/hoja_ajuste_stock.webp) |
 | **Errores de Formulario** | **Confirmación y Errores de Lógica** |
-| ![Error: Datos Incompletos](app/assets/error_datos_incompletos.webp) | ![Confirmación de Eliminación](app/assets/confirmacion_eliminar_producto.webp) |
-| ![Error: Stock Negativo](app/assets/error_dismucion_excede_stock.webp) | ![Error: Eliminar con Stock](app/assets/error_eliminar_producto_con_stock.webp) |
+| ![Error: Datos Incompletos](assets/error_datos_incompletos.webp) | ![Confirmación de Eliminación](assets/confirmacion_eliminar_producto.webp) |
+| ![Error: Stock Negativo](assets/error_dismucion_excede_stock.webp) | ![Error: Eliminar con Stock](assets/error_eliminar_producto_con_stock.webp) |
 
 ---
 
@@ -91,7 +91,7 @@ Sigue estos pasos para compilar y ejecutar la aplicación en tu máquina local.
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone https://[URL-DE-TU-REPOSITORIO]/InventarioMod6.git
+    git clone https://github.com/yerkoppp/InventarioMod6
     ```
 2.  **Abrir en Android Studio:**
     * Abre Android Studio (Recomendado: versión Koala 2024.1.1 o más reciente).
